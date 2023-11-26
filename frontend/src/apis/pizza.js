@@ -2,7 +2,8 @@ import axios from 'axios';
 
 export default axios.create({
 
-    baseURL: 'http://localhost:5000', 
+   
+    baseURL: 'https://backend-food-9ewm.onrender.com',
 
 });
 
