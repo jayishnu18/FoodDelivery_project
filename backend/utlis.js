@@ -715,7 +715,7 @@ ${order.orderItems.map((item)=>{
       <td style="overflow-wrap:break-word;word-break:break-word;padding:0px;font-family:arial,helvetica,sans-serif;" align="left">
         
   <div style="line-height: 140%; text-align: left; word-wrap: break-word;">
-    <p style="font-size: 14px; line-height: 140%; text-align: center;"><span style="font-size: 14px; line-height: 19.6px;">Our mailing address is:jaydeepshelake2001@gmail.com</span></p>
+    <p style="font-size: 14px; line-height: 140%; text-align: center;"><span style="font-size: 14px; line-height: 19.6px;">Our mailing address is:jayishnuagarwal1862003@gmail.com</span></p>
 <p style="font-size: 14px; line-height: 140%; text-align: center;"><span style="font-size: 14px; line-height: 19.6px;">karad</span></p>
   </div>
 

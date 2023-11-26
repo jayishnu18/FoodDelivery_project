@@ -1,15 +1,16 @@
 {
-  "name": "pizzaDelivery",
+  "name": "jayishnu",
   "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
     "build": "cd frontend && npm run build",
-    "install-client": "cd frontend && npm install ",
+    "install-client": "cd frontend && npm install",
     "heroku-postbuild": "npm run install-client && npm run build",
     "client": "cd frontend && npm start",
-    "start": "node backend/server.js"
+    "start": "nodemon backend/server.js"
+   
   },
   "keywords": [],
   "author": "",
@@ -18,6 +19,7 @@
     "bcrypt": "^5.0.1",
     "cors": "^2.8.5",
     "dotenv": "^14.1.0",
+    "ejs": "^3.1.9",
     "express": "^4.17.2",
     "express-async-handler": "^1.2.0",
     "googleapis": "^92.0.0",

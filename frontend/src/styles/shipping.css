@@ -1,6 +1,6 @@
 @import "./vars.css";
 .shipping {
-  background: rgb(241, 241, 241);
+  background: rgb(250, 194, 194);
   width: 100%;
   padding-bottom: 3rem;
   display: flex;
@@ -31,7 +31,7 @@
   width: 100%;
   height: auto;
   box-shadow: 0 4px 12px 0 rgb(0 0 0 / 5%);
-  background: #fff;
+  background: #f9d3d3;
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -59,7 +59,7 @@
 .add-address {
   padding: 20px;
   border: 1px dashed rgb(163, 163, 163);
-  background: #fff;
+  background: #fccaca;
   border-radius: 3px;
 
   cursor: pointer;
@@ -78,7 +78,7 @@
 }
 .progress {
   width: 100%;
-  background: #fff;
+  background: #f9cdcd;
   padding: 20px;
   margin-bottom: 2rem;
   display: flex;

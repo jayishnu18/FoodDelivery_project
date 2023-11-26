@@ -1,8 +1,8 @@
 :root {
-    --primary: #f49001;
-    --secondary:#ffd9a3;
-    --danger:rgb(241, 70, 70);
-    --success:rgb(32, 233, 32);
+    --primary: #aab5e2;
+    --secondary:#ffbda3;
+    --danger:rgb(201, 239, 203);
+    --success:rgb(0, 0, 0);
     --text-gary:rgb(136, 135, 135);
   }
   
